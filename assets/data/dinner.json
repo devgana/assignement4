@@ -1,8 +1,8 @@
 {
     "dinner": 
       [
-          {"food": "apple","price": "$20","calories": "300"},
-          {"food": "banana","price": "$30 ","calories": "400"},
-          {"food": "grapes","price": "$40","calories": "100"}
+          {"food": "Brinjal","price": "$20","calories": "300"},
+          {"food": "Rice","price": "$30 ","calories": "400"},
+          {"food": "Lattice","price": "$40","calories": "100"}
     ]
   }
